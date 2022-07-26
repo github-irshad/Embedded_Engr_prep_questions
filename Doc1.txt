@@ -12,3 +12,35 @@ Parallel
 Why embedded system is useful?
 
 //With embedded system, it is possible to replace dozens or even more of hardware logic gates, input buffers, timing circuits, output drivers, etc. with a relatively cheap microprocessor
+
+Explain what is microcontroller?
+//The microcontroller is a self-contained system with peripherals, memory and a processor that can be used as embedded system.
+
+
+Explain what is interrupt latency? How can you reduce it?
+
+//Interrupt latency is a time taken to return from the interrupt service routine post handling a specific interrupt.  By writing minor ISR routines, interrupt latency can be reduced
+
+ what are buses used for communication in embedded system?
+
+//For embedded system, the buses used for communication includes
+
+I2C: It is used for communication between multiple ICs
+CAN: It is used in automobiles with centrally controlled network
+USB: It is used for communication between CPU and devices like mouse, etc.
+While ISA, EISA, PCI are standard buses for parallel communication used in PCs, computer network devices, etc.
+
+List out various uses of timers in embedded system?
+
+//Real Time Clock (RTC) for the system
+Initiating an event after a preset time delay
+Initiating an even after a comparison of preset times
+Capturing the count value in timer on an event
+Between two events finding the time interval
+Time slicing for various tasks
+Time division multiplexing
+Scheduling of various tasks in RTOS
+
+Explain what is a Watchdog Timer?
+
+A watchdog timer is an electronic device or electronic card that execute specific operation after certain time period if something goes wrong with an electronic system.
