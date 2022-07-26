@@ -44,3 +44,8 @@ Scheduling of various tasks in RTOS
 Explain what is a Watchdog Timer?
 
 A watchdog timer is an electronic device or electronic card that execute specific operation after certain time period if something goes wrong with an electronic system.
+
+Explain what is the need for an infinite loop in embedded systems?
+
+Embedded systems require infinite loops for repeatedly processing or monitoring the state of the program
+
