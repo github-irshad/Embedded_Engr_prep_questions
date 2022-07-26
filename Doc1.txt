@@ -1,0 +1,14 @@
+Explain what is embedded system in a computer system?
+//An embedded system is a computer system that is part of a larger system or machine.  It is a system with a dedicated function within a larger electrical or mechanical system.
+
+Mention how I/O devices are classified for embedded system?
+
+//The I/O devices of embedded system are classified into two categories
+
+Serial
+Parallel
+
+
+Why embedded system is useful?
+
+//With embedded system, it is possible to replace dozens or even more of hardware logic gates, input buffers, timing circuits, output drivers, etc. with a relatively cheap microprocessor
