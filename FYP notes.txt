@@ -1,0 +1,15 @@
+ADXL 345 Accelerometer
+
+NEO 6M GPS Module
+
+Arduino UNO
+
+SIM900A GSM/GPRS
+
+ESP32
+
+I2C
+
+Twilio
+
+0.7W and 3.6V only needed
