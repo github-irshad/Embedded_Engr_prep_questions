@@ -16,3 +16,10 @@ Electrical : Closed loop giving return path for current
 electronics:Amplification computation and data transfer
 Analog:m uses continous signals
 digital: discrete signals
+
+2 types// Series and parellel
+in series current same , in parellel voltages same
+Closed circuit and open circuit
+
+
+Current:flow of electric charge
