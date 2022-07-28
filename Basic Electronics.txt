@@ -1,0 +1,18 @@
+2 types of components:
+passive// stores energy in the form of voltage or current
+cannot control flow of current
+cannot provide any current gain to circuit
+Resistors, Capacitors, Inductors, Transformees
+
+Active//generate energy inthe form of voltage and current
+supply energy and can control flow of current
+they can provide current gain to the circuit
+Transistors,triode,vacuum tubes, Voltage sources
+
+
+Circuit
+Electrical : Closed loop giving return path for current
+
+electronics:Amplification computation and data transfer
+Analog:m uses continous signals
+digital: discrete signals
