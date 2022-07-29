@@ -55,4 +55,8 @@ Passband
 //Passband is the range of frequencies or wavelengths that can pass through a filter without being attenuated
 
 Stop band
-//
+//A stopband is a band of frequencies, between specified limits, in which a circuit, such as a filter or telephone circuit, does not let signals through, or the attenuation is above the required stopband attenuation level
+
+Explain AM and FM.
+//AM-Amplitude modulation is a type of modulation where the amplitude of the carrier signal is varied in accordance with the information bearing signal.
+FM-Frequency modulation is a type of modulation where the frequency of the carrier signal is varied in accordance with the information bearing signal
