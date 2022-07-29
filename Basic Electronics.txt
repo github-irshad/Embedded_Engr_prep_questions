@@ -43,3 +43,16 @@ What is sampling
 
 State sampling theorem
 //while taking the samples of a continuous signal, it has to be taken care that the sampling rate is equal to or greater than twice the cut off frequency and the minimum sampling rate is known as the Nyquist rate.
+
+advantages of resistors
+//Resistors are very small in size
+Resistors are very cheap
+
+cutoff frequency
+//The cutoff frequency or corner frequency of an electronic circuit is the frequency at which the output signal of the system starts reducing
+
+Passband
+//Passband is the range of frequencies or wavelengths that can pass through a filter without being attenuated
+
+Stop band
+//
